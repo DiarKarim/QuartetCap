@@ -1,0 +1,40 @@
+1	12:03:59	Realtime started	
+1	12:29:37	Disconnected	
+1	12:29:55	Realtime started	
+1	13:03:17	Rigid body identification results	Rigid body identification results:  0 successful  2 failed
+1	13:03:17	File created	
+1	13:05:17	File closed	
+1	13:05:19	Realtime started	
+1	13:06:44	Rigid body identification results	Rigid body identification results:  0 successful  2 failed
+1	13:06:44	File created	
+1	13:09:51	File saved as F:\OneDrive\Documents\Quartet_13Aug\Data\Measurement6.qtm	
+1	13:09:52	File closed	
+1	13:09:56	Realtime started	
+1	13:11:57	Disconnected	
+1	13:11:58	Realtime started	
+1	13:12:16	Disconnected	
+1	13:12:19	Realtime started	
+1	13:12:37	Disconnected	
+1	13:13:07	Realtime started	
+1	13:14:03	Disconnected	
+1	13:14:04	Realtime started	
+1	13:16:19	Disconnected	
+1	13:16:21	Realtime started	
+1	15:34:11	Disconnected	
+1	15:34:19	Realtime started	
+1	15:34:55	Disconnected	
+1	16:20:49	Realtime started	
+1	18:02:03	Disconnected	
+1	18:25:14	Realtime started	
+1	18:48:39	Disconnected	
+1	19:15:34	Realtime started	
+1	19:17:58	Recalibration recommended	Camera 4 has very few contributions to the 3D reconstruction.
+1	19:17:58	AIM model application results	   Rigid body identification results:  0 successful  2 failed
+1	19:17:58	Not all gaps were spline-filled	No gaps were spline-filled. They were all longer than 10 frames.  To adjust the maximum gap length for this measurement:     Right click a trajectory > Gap fill trajectory > Gap fill settings.  To adjust the maximum gap length for future measurements:     Go to Tools > Project Options and navigate to Processing > Trajectories. 
+1	19:17:58	File created	
+1	19:19:37	File saved as F:\OneDrive\Documents\Quartet_13Aug\Data\Measurement2.qtm	
+1	19:19:37	File closed	
+1	19:19:40	Realtime started	
+1	19:24:20	Disconnected	
+1	19:24:36	Realtime started	
+1	19:49:44	Disconnected	
